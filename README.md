@@ -1,3 +1,4 @@
+<p>A Laravel-Vue Nested Comments.</p>
 ## Installation
 
 1. Clone this project or Download that ZIP file
@@ -13,6 +14,8 @@
 
 `$ php artisan migrate` Run database migrations
 
+
+## Usage
 `$ npm install` Install additional depencies
 
 `$ npm run watch` 
